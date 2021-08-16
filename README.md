@@ -23,3 +23,6 @@
 <a href="https://www.acmicpc.net/user/dogeee" target="_blank"><img src="https://img.shields.io/badge/Baekjoon-004088?style=flat-square&logo=BookStack&logoColor=white"/></a>
 <a href="https://algospot.com/user/profile/148400" target="_blank"><img src="https://img.shields.io/badge/Algospot-FF0000?style=flat-square&logo=AniList&logoColor=white"/></a>
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogeee)](https://solved.ac/dogeee/) 
+
