@@ -15,7 +15,7 @@
 
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-0696D7?style=plastic&logo=Python&logoColor=white)
-<img src="https://img.shields.io/badge/HTML5-302683?style=plastic&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/302683?style=plastic&logo=HTML&logoColor=white"/>
 
 
 
