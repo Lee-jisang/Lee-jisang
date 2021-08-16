@@ -24,5 +24,5 @@
 <a href="https://algospot.com/user/profile/148400" target="_blank"><img src="https://img.shields.io/badge/Algospot-FF0000?style=flat-square&logo=AniList&logoColor=white"/></a>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogeee)](https://solved.ac/dogeee/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwltkd2003)](https://solved.ac/dlwltkd2003/) 
 
