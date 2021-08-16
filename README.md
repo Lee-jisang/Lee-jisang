@@ -1,4 +1,4 @@
-### Hi every one im Lee Jisang 👋
+### Hi everyone im Lee Jisang 👋
 
 - 🔭 I am a student at Seokyeong University.
 - 🌱 I am majoring in computer science.
