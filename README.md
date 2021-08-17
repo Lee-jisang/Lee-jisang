@@ -3,7 +3,8 @@
 ### Hi everyone im Lee Jisang 👋  
 
 -  I am a student at Seokyeong University.   
--  I am majoring in computer science.       &nbsp;&nbsp;&nbsp;&nbsp; <img align="" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+-  I am majoring in computer science.      &nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp; 
+-  <img align="" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 -  I am interested in web, database, AI development.
 
 <!--
