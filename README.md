@@ -13,12 +13,12 @@
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-jisang&show_icons=true&theme=radical&bg_color=DEG&text_color=0f0f0f&title_color=0f0f0f&border_color=0f0f0f)
+
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-0696D7?style=plastic&logo=Python&logoColor=white)
 <img src="https://img.shields.io/badge/HTML-302683?style=plastic&logo=HTML5&logoColor=white"/>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-jisang&show_icons=true&theme=radical&bg_color=DEG&text_color=0f0f0f&title_color=0f0f0f&border_color=0f0f0f)
 
 
 ### :mailbox_with_mail: Contacts
