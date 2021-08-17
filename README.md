@@ -3,7 +3,7 @@
 ### Hi everyone im Lee Jisang 👋     
 
 -  I am a student at Seokyeong University.   
--  I am majoring in computer science.        <img  align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+-  I am majoring in computer science.        
 -  I am interested in web, database, AI development.
 
 <!--
@@ -21,7 +21,7 @@
 ![PYTHON](https://img.shields.io/badge/PYTHON-0696D7?style=plastic&logo=Python&logoColor=white)
 <img src="https://img.shields.io/badge/HTML-302683?style=plastic&logo=HTML5&logoColor=white"/>
 
-
+<img  align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwltkd2003@gmail.com)](mailto:dlwltkd2003@gmail.com)
