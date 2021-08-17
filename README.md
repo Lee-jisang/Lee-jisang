@@ -25,7 +25,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwltkd2003@gmail.com)](mailto:dlwltkd2003@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-jisang&show_icons=true&theme=radical&bg_color=DEG&text_color=0f0f0f&title_color=0f0f0f&border_color=ff0f0f)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-jisang&show_icons=true&theme=radical&bg_color=DEG&text_color=0f0f0f&title_color=0f0f0f&hide_border)
 
 
 <!--
