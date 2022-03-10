@@ -19,7 +19,7 @@
 
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-0696D7?style=plastic&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=plastic&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white)
 <img src="https://img.shields.io/badge/HTML-302683?style=plastic&logo=HTML5&logoColor=white"/> 
 
 
