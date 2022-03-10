@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=160&section=header&text=Hi!%20I'm%20Jisang!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 ### Hi everyone im Lee Jisang 👋      <img  align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 -  I am a student at Seokyeong University.   
