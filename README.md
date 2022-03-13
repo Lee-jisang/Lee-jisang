@@ -6,7 +6,7 @@
 
 -  I am a student at Seokyeong University.   
 -  I am majoring in computer science.        
--  I am interested in web, database, AI development.   
+-  I am interested in web, database, AI development.    
   
 <!--
 - 👯 I’m looking to collaborate on ...🔭🌱  
