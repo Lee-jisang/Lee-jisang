@@ -8,7 +8,7 @@
 -  I am majoring in computer science.        
 -  I am interested in web development.       
       
-<!-- 
+<!--  
 - 👯 I’m looking to collaborate on ...🔭🌱   
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...  
