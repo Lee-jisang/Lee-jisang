@@ -7,6 +7,8 @@
 -  I am a student at Seokyeong University.   
 -  I am majoring in computer science.          
 -  I am interested in web development.       
+
+[😄 My Portfolio](https://www.notion.so/Portfolio-89bef4d0c2124ad3b6b3c4a6a0edcbef)
       
 <!--   
 - 👯 I’m looking to collaborate on ...🔭🌱   
