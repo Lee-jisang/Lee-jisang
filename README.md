@@ -23,7 +23,7 @@
  
 |Language|Web Front-End|Web Back-End|
 |---|---------|---|
-|![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) <br>![c](https://img.shields.io/badge/C++-007396?style=flat-square&logo=c%2B%2B&logoColor=white) ![d](https://img.shields.io/badge/Python3-306998?style=flat-square&logo=python&logoColor=white)|![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black) |![a](https://img.shields.io/badge/Express-eeeeee?style=flat-square&logo=Express&logoColor=white)![b](https://img.shields.io/badge/Koa-eeeeee?style=flat-square&logo=Koa&logoColor=white)<br> ![c](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) ![d](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+|![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) <br>![c](https://img.shields.io/badge/C++-007396?style=flat-square&logo=c%2B%2B&logoColor=white) ![d](https://img.shields.io/badge/Python3-306998?style=flat-square&logo=python&logoColor=white)|![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black) | ![d](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 
 
