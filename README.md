@@ -21,11 +21,7 @@
 
  
  
-### :cyclone: Languages
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-![PYTHON](https://img.shields.io/badge/PYTHON-0696D7?style=plastic&logo=Python&logoColor=white)
-<img src="https://img.shields.io/badge/HTML-302683?style=plastic&logo=HTML5&logoColor=white"/> 
-
+### :cyclone: Stacks
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
