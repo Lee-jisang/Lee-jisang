@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/76837780/169352736-cb18d261-7497-49ea-ba42-f02f8611f420.png)
 <img align="right" height="160" src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://user-images.githubusercontent.com/76837780/169352736-cb18d261-7497-49ea-ba42-f02f8611f420.png)" />　　
-### Hi everyone im Lee Jisang👋              
+### Hi everyone im Lee Jisang👋              <img align="right" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 -  I am a student at Seokyeong University.  　　　　　　　　
 -  I am majoring in computer science.            
 -  I am interested in web development.   
