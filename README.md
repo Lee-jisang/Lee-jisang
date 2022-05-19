@@ -47,4 +47,4 @@
 
  
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=%23E7E7E7&height=200&section=footer)
