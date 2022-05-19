@@ -5,7 +5,7 @@
  ### Hi everyone im Lee Jisang     👋     
 
 -  I am a student at Seokyeong University.   
--  I am majoring in computer science.            
+-  I am majoring in computer science.            <img  align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 -  I am interested in web development.       
  
 [😄 My Portfolio](https://adhesive-pull-bea.notion.site/Portfolio-89bef4d0c2124ad3b6b3c4a6a0edcbef)  
