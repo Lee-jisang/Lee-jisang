@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:F8F8FF,100:696969&height=160&section=header&text=Hi!%20I'm%20Jisang!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-<img height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="right" >
+<img align="right" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
  ### Hi everyone im Lee Jisang👋                     
 -  I am a student at Seokyeong University.    　　　　　　　　　　
 -  I am majoring in computer science.            
