@@ -1,18 +1,11 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-jisang%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  ![Hits](https://img.shields.io/github/followers/Lee-jisang?label=Follow)
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:F8F8FF,100:696969&height=160&section=header&text=Hi!%20I'm%20Jisang!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-
-<p align="right">
-  ### Hi everyone im Lee Jisang👋                      
+ 
+### Hi everyone im Lee Jisang👋              <p align="right"><img align="right" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 -  I am a student at Seokyeong University.    　　　　　　　　　　
 -  I am majoring in computer science.            
 -  I am interested in web development.   
-  <img align="right" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-</p>
-
-<img align="right" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
- 
-    
  
 [😄 My Portfolio](https://adhesive-pull-bea.notion.site/Portfolio-89bef4d0c2124ad3b6b3c4a6a0edcbef)  
        
