@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:F8F8FF,100:696969&height=160&section=header&text=Hi!%20I'm%20Jisang!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 <img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 <img align="right" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </p>
  ### Hi everyone im Lee Jisang👋                     
