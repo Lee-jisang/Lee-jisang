@@ -34,15 +34,16 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwltkd2003@gmail.com)](mailto:dlwltkd2003@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lee-jisang.github.io/)](https://lee-jisang.github.io/)
 
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-jisang&show_icons=true&theme=radical&bg_color=DEG&text_color=0f0f0f&title_color=0f0f0f&hide_border)  
--->
+
 
 
 <a href="https://solved.ac/profile/dlwltkd2003"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=dlwltkd2003"></a>
 
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwltkd2003)](https://solved.ac/dlwltkd2003/) 
+--> 
 
 <!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=%23E7E7E7&height=200&section=footer)
