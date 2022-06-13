@@ -7,7 +7,7 @@
  -->  
  
 ### Hi everyone im Lee Jisang👋   
--  I am a student at Seokyeong University.  　　　　　　　　
+-  I am a student at Seokyeong University.  　　　　　　　　 
 -  I am majoring in computer science.            
 -  I am interested in web development.   
  
