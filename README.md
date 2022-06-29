@@ -10,7 +10,7 @@
 -  I am a student at Seokyeong University.  　　　　　　　　 
 -  I am majoring in computer science.            
 -  I am interested in web development.   
-   
+    
 [😄 My Portfolio](https://adhesive-pull-bea.notion.site/Portfolio-89bef4d0c2124ad3b6b3c4a6a0edcbef)  
        
 <!--   
