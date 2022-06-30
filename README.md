@@ -26,7 +26,7 @@
 |Language|Web Front-End|Web Back-End|
 |---|---------|---|
 | <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> ![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) <br>![c](https://img.shields.io/badge/C++-007396?style=flat-square&logo=c%2B%2B&logoColor=white) ![d](https://img.shields.io/badge/Python3-306998?style=flat-square&logo=python&logoColor=white)|![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black)
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Android&logoColor=white"/> | <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> ![d](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/> | <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> ![d](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 
   
