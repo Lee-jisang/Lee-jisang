@@ -6,7 +6,7 @@
   <img  align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  -->  
  
-### Hi everyone, im Lee Ji-sang, who dreams of becoming a web developer.👋      
+### Hi everyone, im Lee Ji-sang, dreaming of becoming a web developer.👋      
     
 [😄 My Portfolio](https://adhesive-pull-bea.notion.site/Portfolio-89bef4d0c2124ad3b6b3c4a6a0edcbef)  
        
