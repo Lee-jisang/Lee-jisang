@@ -18,7 +18,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  
 -->   
- 
+  
 ### :cyclone: STACKS  
 |Language|Web Front-End|Web Back-End|
 |---|---------|---|
